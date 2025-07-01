@@ -1,0 +1,14 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+evm-version = "shanghai"
+optimizer = true
+optimizer-runs = 200
+bytecodeHash = "none"
+
+[rpc_endpoints]
+arbitrum = "https://arb1.arbitrum.io/rpc"
+
+[etherscan]
+arbiscan = { key = "${ARBISCAN_API_KEY}" }

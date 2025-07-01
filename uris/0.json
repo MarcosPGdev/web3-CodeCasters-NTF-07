@@ -1,0 +1,11 @@
+{
+  "name": "The Code Wizard",
+  "description": "A mystical avatar with a digital robe and a USB staff. Master of frontend and magical animations.",
+  "image": "ipfs://bafybeidc5urxjjrw7gkiikeech6pb6iqia77ie42rddpfnb5jf22bflbgi",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

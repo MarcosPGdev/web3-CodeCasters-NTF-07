@@ -1,0 +1,11 @@
+{
+  "name": "Debugron the Tracker",
+  "description": "A mage forged in metal, with analysis runes on his chest and a tracking orb atop his staff. He dreams of finding bugs even in ethereal realms.",
+  "image": "ipfs://bafybeiepdafcts5icbjzspcqxfpgeycbflovvq564mdtm4o22hy7ru3ktq",
+  "atributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

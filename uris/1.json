@@ -1,0 +1,11 @@
+{
+  "name": "The Terminal Warlock",
+  "description": "An ancient warlock of the console. Cloaked in shadows, he wields a glowing command-line blade, and his eyes shimmer with forbidden syntax. In silence, he casts terminal commands across dimensions.",
+  "image": "ipfs://bafybeihesdcqylpls4ubwc727b5rqcld23mzs2ypzmjegynoffeykdhmy4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

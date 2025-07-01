@@ -1,0 +1,11 @@
+{
+  "name": "The Pixel Mage",
+  "description": "A digital sorcerer who crafts interfaces with surgical precision. He wields a Tailwind palette as a spellbook and wears enchanted UX design glasses that reveal the perfect layout.",
+  "image": "ipfs://bafybeibziowfmzrnbub7jbamsuafescypbulfq4mrvi2umnzos2qohuaqa",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ]
+}

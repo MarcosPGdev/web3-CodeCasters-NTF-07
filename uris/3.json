@@ -1,0 +1,11 @@
+{
+  "name": "The Chainbound Sage",
+  "description": "An ancient mage bound by the laws of the blockchain. Cloaked in a hood inscribed with 'WEB3' and robed in smart contract fragments, he manipulates the flow of trust through mystical chains across time.",
+  "image": "ipfs://bafybeibxgcyig57bzi34ddashxfqtpy6dmej3u3yreevsfiou26txz323q",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
