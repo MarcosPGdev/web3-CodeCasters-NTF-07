@@ -40,7 +40,7 @@ It demonstrates how to build, deploy and mint a minimal NFT smart contract using
 ### 1️⃣ **Clone this repo**
 
 ```
-git clone https://github.com/MarcosPGdev/codecasters-nft.git
+git clone https://github.com/MarcosPGdev/web3-CodeCasters-NTF-07.git
 cd codecasters-nft
 ```
 
